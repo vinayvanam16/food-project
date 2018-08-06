@@ -1,0 +1,11 @@
+
+*{
+    font-family: "Helvetica Neue";
+}
+
+.vinay{
+    background-image: url("../img/slider 3.jpg");
+    background-color: lightgrey;
+    height: 300px;
+    background-attachment: fixed;
+}
